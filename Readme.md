@@ -14,7 +14,7 @@
 
 <br>
 <h2>📊 Github Stats</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+[![Arjyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjyo851)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
