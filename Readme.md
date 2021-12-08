@@ -17,7 +17,7 @@
 
 <br>
 <h2>📊 Github Stats</h2>
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=arjyo851&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+[![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=arjyo851&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 <br>
 
