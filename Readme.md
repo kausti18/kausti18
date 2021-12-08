@@ -17,7 +17,9 @@
 
 <br>
 <h2>📊 Github Stats</h2>
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=arjyo851&&show_icons=true)<br>
+[![Arjyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjyo851)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 <br />
 
