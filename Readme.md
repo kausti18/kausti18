@@ -8,10 +8,10 @@
 
 
 - 🔭 I am working on my portfolio
-- 🌱 I am currently learning Python And Django
+- 🌱 I am currently learning Python/Django and honing my dsa skills
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdfaizalam53@gmail.com)](mailto:arjyo77@gmail.com) 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com) 
 - ⚡ Fun fact: I love to go to the gym
 - Profile views: ![](https://komarev.com/ghpvc/?username=arjyo851)
 
