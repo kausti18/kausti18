@@ -7,12 +7,12 @@
 <br>
 
 
-- 🔭 I am honing my dev and python skills.
-- 🌱 I am currently learning Python/Django 
+- 🔭 I am honing my full stack java spring boot skills and AWS Cloud Skills.
+- 🌱 I am currently learning AWS and Java Full Stack Development
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaustubh_patil18@outlook.com)](mailto:kaustubh_patil18@outlook.com) 
-- ⚡ Fun fact: I love to go to the gym
+- ⚡ Fun fact: I love to go to the gym and swim
 - Profile views: ![](https://komarev.com/ghpvc/?username=kausti18)
 
 <br>
@@ -51,11 +51,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/arjyo-chakraborty-baa9351bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.instagram.com/arjyo74/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://leetcode.com/arjyo77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaustubh-patil-705a26207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.instagram.com/your_sarawat/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kausti18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://leetcode.com/kausti18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kaustubhpatil1914059/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
 </p>
 
 
