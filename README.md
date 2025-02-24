@@ -18,7 +18,7 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kausti18&theme=onedark)
+![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kausti18&theme=onedark&cache=0)
 
 <br>
 
